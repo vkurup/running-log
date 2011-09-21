@@ -1,0 +1,15 @@
+Add baseline mileage field for shoes.
+
+Make sure metric conversion formulas are accurate.
+
+If user selects a course, automatically fill-in distance (need javascript)
+
+Fix course-ae.adp template to put distance units on same line as distance.
+
+If user selects 'Other' for course or type, then show text field (javascript).
+
+Allow user to view checked workouts.
+
+I'm not going to use cr_keywords because I don't see an advantage. I want
+my keywords to be package-specific.
+
